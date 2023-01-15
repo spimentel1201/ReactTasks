@@ -1,7 +1,7 @@
 {
   "name": "app-tasks",
   "version": "0.1.0",
-  "home": "https://spimentel1201.github.io/ReactTasks",
+  "home": "http://spimentel1201.github.io/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
